@@ -18,5 +18,5 @@
     "opusscript": "0.0.3",
     "ytdl-core": "^0.20.1"
   },
-  "is-music-bot": true
+  "is-music-bot": false
 }
